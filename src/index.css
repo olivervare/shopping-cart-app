@@ -1,0 +1,15 @@
+body {
+  margin: 20px;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.total {
+  text-align: right;
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}

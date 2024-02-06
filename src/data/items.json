@@ -1,0 +1,26 @@
+[
+  {
+    "name": "apple",
+    "price": 4,
+    "img": "./images/apples.jpg",
+    "id": 1
+  },
+  {
+    "name": "beetroot",
+    "price": 3,
+    "img": "./images/beetroot.jpg",
+    "id": 2
+  },
+  {
+    "name": "sandwich",
+    "price": 12,
+    "img": "./images/sandwich.jpg",
+    "id": 3
+  },
+  {
+    "name": "soda-pop",
+    "price": 5,
+    "img": "./images/soda-pop.jpg",
+    "id": 4
+  }
+]
